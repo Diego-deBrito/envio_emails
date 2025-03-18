@@ -83,7 +83,7 @@ python script.py
 ## 📌 Autor
 👤 **Diego Bruno Santos de Brito**
 
-📧 Entre em contato: [seu_email@email.com](mailto:seu_email@email.com)
+📧 Entre em contato: debrito521@gmail.com
 
 📝 _Projeto em constante evolução! Sugestões são bem-vindas!_ 🚀
 
